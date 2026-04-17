@@ -5,6 +5,8 @@ This project is a web-based 3D avatar viewer built with React Three Fiber and Th
 Press the ```spacebar``` to stop the model from rotating. 
 If the model is out of sight, reload the page.
 
+![screenshot](doc/screenshot1.png)
+
 ## Project Setup
 
 ```
@@ -17,6 +19,8 @@ npm install zustand
 Running the project: ```npm run dev```
 
 ---
+
+![screenshot](doc/screenshot2.png)
 
 ## Models Credit (Sketchfab & Poly Haven)
 
@@ -40,3 +44,14 @@ Sky Background: [Qwantani Dusk 2 (Pure Sky)](https://polyhaven.com/a/qwantani_du
 
 ---
 Music by <a href="https://pixabay.com/users/everything_is_dead-54651617/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=511240">everything_is_dead</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=511240">Pixabay</a>
+
+---
+
+### Project Features
+
+* Random ```.glb``` model switching
+* Camera controls (zoom, orbit)
+* Auto-rotation + spacebar pause
+* Environment lighting + background
+* UI (Random + instruction text)
+* Background music
