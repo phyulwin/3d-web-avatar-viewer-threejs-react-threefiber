@@ -9,6 +9,8 @@ If the model is out of sight, reload the page.
 
 ## Project Setup
 
+After cloning the project, go to the ```web-avatar-viewer``` folder and run the following commands in the terminal:
+
 ```
 npx create-next-app@latest web-avatar-viewer
 cd web-avatar-viewer
