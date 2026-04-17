@@ -1,5 +1,9 @@
-# 3d-web-avatar-viewer-threejs-react-threefiber
-3D Web Avatar Viewer (Three.js, React Three Fiber, Ready Player Me/Mixamo rig)
+# 3D Model Viewer (Web)
+
+This project is a web-based 3D avatar viewer built with React Three Fiber and Three.js that loads and displays interactive `.glb` models in a browser environment with lighting, background, and camera controls. It allows users to dynamically switch models, view them in a physically grounded scene, and interact through zoom, rotation, and keyboard-triggered behaviors.           
+
+Press the ```spacebar``` to stop the model from rotating. 
+If the model is out of sight, reload the page.
 
 ## Project Setup
 
@@ -12,9 +16,11 @@ npm install zustand
 
 Running the project: ```npm run dev```
 
-### Sample Model
+---
 
-Sky background: [Qwantani Dusk 2 (Pure Sky)](https://polyhaven.com/a/qwantani_dusk_2_puresky)
+## Models Credit (Sketchfab & Poly Haven)
+
+Sky Background: [Qwantani Dusk 2 (Pure Sky)](https://polyhaven.com/a/qwantani_dusk_2_puresky)
 
 ```
 "Blue Flower Animated" (https://skfb.ly/oDIqT) by morphy.vision is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -31,3 +37,6 @@ Sky background: [Qwantani Dusk 2 (Pure Sky)](https://polyhaven.com/a/qwantani_du
 
 "Flower" (https://skfb.ly/6TGKv) by olilar is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 ```
+
+---
+Music by <a href="https://pixabay.com/users/everything_is_dead-54651617/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=511240">everything_is_dead</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=511240">Pixabay</a>
